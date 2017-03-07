@@ -6,6 +6,6 @@ public class Hello_Test {
 		System.out.println("Hello Two Test");
 		System.out.println("로컬에서 추가");
 		System.out.println("Git Hub Edit");
-		System.out.println("last local repository");
+		System.out.println("last add");
 	}
 }
